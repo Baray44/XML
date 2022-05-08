@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<about_me>
+    <lastname>Бараев</lastname>
+    <firstname>Дамир</firstname>
+    <age>23</age>
+    <number_of_pets>1</number_of_pets>
+    <future_desired_salary>123</future_desired_salary>
+</about_me>
