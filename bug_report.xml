@@ -1,1 +1,17 @@
-
+<?xml version="1.0"?>
+<bug_report>
+	<Summary> </Summary>
+	<Project> </Project>
+	<Component> </Component>
+	<Version> </Version>
+	<Severity> </Severity>
+  <Priority> </Priority>
+  <Status> </Status>
+  <Author> </Author>
+  <Assignet_To> </Assignet_To>
+  <OS> </OS>
+  <Steps_to_Reproduce> </Steps_to_Reproduce>
+  <Result> </Result>
+  <Expected_Result> </Expected_Result>
+  <Attachment> </Attachment>
+</bug_report>
